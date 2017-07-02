@@ -2637,6 +2637,7 @@
 		}
 
 			.post > .image.featured img {
+				margin-top: 1em;
 				-moz-transition: -moz-transform 0.2s ease-out;
 				-webkit-transition: -webkit-transform 0.2s ease-out;
 				-ms-transition: -ms-transform 0.2s ease-out;
