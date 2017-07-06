@@ -1656,7 +1656,7 @@
 /* Blurb */
 
 	.blurb h2 {
-		font-size: 0.8em;
+		font-size: 1em;
 		margin: 0 0 1.5em 0;
 	}
 
@@ -1665,7 +1665,7 @@
 	}
 
 	.blurb p {
-		font-size: 0.9em;
+		font-size: 1em;
 	}
 
 /* Box */
